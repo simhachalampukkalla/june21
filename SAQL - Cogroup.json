@@ -1,0 +1,1795 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2SWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-05-17T04:18:55.000Z",
+  "datasets": [
+    {
+      "id": "0Fb7F000000H66jSAC",
+      "label": "Wave_Sample_Opportunities",
+      "name": "Wave_Sample_Opportunities3",
+      "namespace": "simha",
+      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+    },
+    {
+      "id": "0Fb7F000000H66mSAC",
+      "label": "Quota_Region1",
+      "name": "Quota_Region1",
+      "namespace": "simha",
+      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66mSAC"
+    }
+  ],
+  "files": [
+    {
+      "contentType": "image/png",
+      "fileLength": 24794,
+      "fileName": "assetPreviewThumb",
+      "id": "0FJ7F000000GzeHWAS",
+      "lastModifiedDate": "2018-06-07T06:21:55.000Z",
+      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2SWAW/files/0FJ7F000000GzeHWAS"
+    }
+  ],
+  "folder": {
+    "id": "00l7F000000ilbdQAA",
+    "label": "Einstein Analytics Learning Adventure",
+    "name": "Einstein_Analytics_Learning_Adventure",
+    "namespace": "simha",
+    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+  },
+  "id": "0FK7F000000GM2SWAW",
+  "label": "SAQL - Cogroup",
+  "lastAccessedDate": "2018-06-21T08:19:49.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-06-07T06:21:50.000Z",
+  "mobileDisabled": false,
+  "name": "New_Copy_COGROUP",
+  "namespace": "simha",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "refreshDate": "2018-05-17T04:17:32.000Z",
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "maxWidth": 1280,
+        "name": "Default",
+        "numColumns": 40,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "5e545cd2-2ac8-45a8-a0ea-c5b62811d5a8",
+            "widgets": [
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "link_8",
+                "row": 0,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_1",
+                "row": 3,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_2",
+                "row": 7,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#5C7A99",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "container_1",
+                "row": 0,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(8, 30, 41)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 20,
+                "column": 7,
+                "name": "container_2",
+                "row": 25,
+                "rowspan": 80,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 243, 251)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_10",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(250, 247, 245)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "container_6",
+                "row": 11,
+                "rowspan": 136,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "text_7",
+                "row": 31,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 20,
+                "column": 7,
+                "name": "container_3",
+                "row": 14,
+                "rowspan": 10,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 243, 251)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 7,
+                "name": "text_14",
+                "row": 15,
+                "rowspan": 8,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "rgb(22, 50, 92)",
+                  "borderEdges": [
+                    "right"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_5",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 14,
+                "column": 12,
+                "name": "text_3",
+                "row": 15,
+                "rowspan": 8,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_2",
+                "row": 38,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_4",
+                "row": 42,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_3",
+                "row": 54,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_6",
+                "row": 58,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "pillbox_2",
+                "row": 38,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 32,
+                "column": 7,
+                "name": "container_7",
+                "row": 106,
+                "rowspan": 37,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "rgb(34, 144, 138)",
+                  "borderEdges": [
+                    "all"
+                  ],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_1",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_7",
+                "row": 62,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_1",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_2",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_3",
+                "row": 38,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_4",
+                "row": 42,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_5",
+                "row": 54,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_6",
+                "row": 58,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_7",
+                "row": 62,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_9",
+                "row": 46,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_8",
+                "row": 46,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(244, 246, 249)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "chart_1",
+                "row": 42,
+                "rowspan": 45,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 30,
+                "column": 8,
+                "name": "text_5",
+                "row": 107,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "rgb(34, 144, 138)",
+                  "borderEdges": [
+                    "bottom"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_9",
+                "row": 19,
+                "rowspan": 18,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_11",
+                "row": 39,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(250, 247, 245)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_17",
+                "row": 74,
+                "rowspan": 18,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_18",
+                "row": 69,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(250, 247, 245)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_19",
+                "row": 94,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(250, 247, 245)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [
+                    "top"
+                  ],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "text_21",
+                "row": 19,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_10",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_11",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "link_12",
+                "row": 99,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "text_4",
+                "row": 51,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(2, 34, 66, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 26,
+                "name": "text_8",
+                "row": 113,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "borderColor": "rgb(221, 219, 218)",
+                  "borderEdges": [
+                    "left"
+                  ]
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 26,
+                "name": "text_12",
+                "row": 117,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "borderColor": "rgb(221, 219, 218)",
+                  "borderEdges": [
+                    "left"
+                  ]
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 26,
+                "name": "text_13",
+                "row": 125,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderColor": "rgb(221, 219, 218)",
+                  "borderEdges": [
+                    "left"
+                  ]
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "text_15",
+                "row": 27,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "text_20",
+                "row": 30,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_10",
+                "row": 26,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_9",
+                "row": 26,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 26,
+                "name": "text_23",
+                "row": 137,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderColor": "rgb(221, 219, 218)",
+                  "borderEdges": [
+                    "left"
+                  ]
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 26,
+                "name": "text_25",
+                "row": 131,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderColor": "rgb(221, 219, 218)",
+                  "borderEdges": [
+                    "left"
+                  ],
+                  "borderWidth": 4
+                }
+              },
+              {
+                "colspan": 11,
+                "column": 28,
+                "name": "text_27",
+                "row": 44,
+                "rowspan": 23,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 17,
+                "column": 8,
+                "name": "text_6",
+                "row": 137,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "text_16",
+                "row": 113,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 17,
+                "column": 8,
+                "name": "text_22",
+                "row": 117,
+                "rowspan": 6,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 16,
+                "column": 8,
+                "name": "text_24",
+                "row": 125,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              },
+              {
+                "colspan": 17,
+                "column": 8,
+                "name": "text_26",
+                "row": 131,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "borderEdges": []
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "fine",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#FFFFFF",
+          "cellSpacingX": 0,
+          "cellSpacingY": 0,
+          "fit": "original",
+          "gutterColor": "rgb(8, 30, 41)"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {
+      "dataset_1": {
+        "broadcastFacet": true,
+        "label": "dataset",
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Percent Attained&quot;]}",
+        "type": "staticflex",
+        "values": [
+          "{&quot;display&quot;:&quot;Quota&quot;,&quot;value&quot;:&quot;-- load the quota dataset &#92;nq = load &#92;&quot;simha__Quota_Region1&#92;&quot;;&#92;n&#92;n -- We want just the 2017 quota &#92;n  q = filter q by &#39;Year&#39; == &#92;&quot;2017&#92;&quot;; q = group q by &#39;Employee&#39;;&#92;n&#92;n -- project the owner and their quota &#92;n q = foreach q generate &#39;Employee&#39; as &#39;Employee&#39;, sum(&#39;Quota&#39;) as &#39;sum_Quota&#39;;&#92;n&#92;n -- sort the results alphabetically by owner &#92;nq = order q by &#39;Employee&#39; asc;&quot;,&quot;chart&quot;:&quot;vbar&quot;,&quot;reflinelabel&quot;:&quot;100%&quot;,&quot;reflinecolor&quot;:&quot;rgb(9, 26, 62)&quot;,&quot;reflinevalue&quot;:6000000}",
+          "{&quot;display&quot;:&quot;Amount Won&quot;,&quot;value&quot;:&quot;-- load the opportunity dataset&#92;n q = load &#92;&quot;simha__Wave_Sample_Opportunities3&#92;&quot;; &#92;n&#92;n-- We want just the 2017 data and the won opportunities &#92;nq = filter q by date(&#39;Close_Date_Year&#39;, &#39;Close_Date_Month&#39;, &#39;Close_Date_Day&#39;) in [dateRange([2017,1,1], [2017,12,31])]; &#92;nq = filter q by &#39;Stage&#39; == &#92;&quot;08 - Closed Won&#92;&quot;;&#92;n q = group q by &#39;Account_Owner&#39;; &#92;n&#92;n -- project the sum of amount for each owner &#92;nq = foreach q generate &#39;Account_Owner&#39; as &#39;Account_Owner&#39;, sum(&#39;Amount&#39;) as &#39;sum_Amount&#39;; &#92;n&#92;n -- sort the results alphabetically by owner &#92;n q = order q by &#39;Account_Owner&#39; asc; q = limit q 2000;&quot;,&quot;chart&quot;:&quot;vbar&quot;,&quot;reflinelabel&quot;:&quot;100%&quot;,&quot;reflinecolor&quot;:&quot;rgb(9, 26, 62)&quot;,&quot;reflinevalue&quot;:3000000}",
+          "{&quot;display&quot;:&quot;Percent Attained&quot;,&quot;value&quot;:&quot;-- load the opportunity dataset &#92;nopt = load &#92;&quot;simha__Wave_Sample_Opportunities3&#92;&quot;; &#92;n&#92;n -- we just want 2017 data and won opportunities &#92;n opt = filter opt by date(&#39;Close_Date_Year&#39;, &#39;Close_Date_Month&#39;, &#39;Close_Date_Day&#39;) in [dateRange([2017,1,1], [2017,12,31])]; &#92;nopt = filter opt by &#39;Stage&#39; == &#92;&quot;08 - Closed Won&#92;&quot;; &#92;n&#92;n -- load the quota dataset &#92;n quo = load &#92;&quot;simha__Quota_Region1&#92;&quot;; &#92;n&#92;n -- we just want 2017 data &#92;n quo = filter quo by &#39;Year&#39; == &#92;&quot;2017&#92;&quot;; &#92;n&#92;n -- cogroup the two datasets &#92;natt = group opt by &#39;Account_Owner&#39;, quo by &#39;Employee&#39;; &#92;n&#92;n -- calculate the percent attained for each owner &#92;n att = foreach att generate opt.&#39;Account_Owner&#39; as &#39;Owner&#39;, sum(opt.&#39;Amount&#39;)/sum(quo.&#39;Quota&#39;) as &#39;percent attained&#39;;&quot;,&quot;chart&quot;:&quot;hbar&quot;,&quot;reflinelabel&quot;:&quot;100%&quot;,&quot;reflinecolor&quot;:&quot;rgb(9, 26, 62)&quot;,&quot;reflinevalue&quot;:1}"
+        ]
+      },
+      "all_2": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "id": "0Fb7F000000H66mSAC",
+            "label": "Quota_Region1",
+            "name": "Quota_Region1",
+            "namespace": "simha",
+            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66mSAC"
+          }
+        ],
+        "isGlobal": false,
+        "query": {
+          "query": "{&quot;measures&quot;:[[&quot;count&quot;,&quot;*&quot;]]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "single",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "parameters": {
+            "autoFitMode": "keepLabels",
+            "showValues": true,
+            "bins": {
+              "breakpoints": {
+                "high": 100,
+                "low": 0
+              },
+              "bands": {
+                "high": {
+                  "color": "#008000",
+                  "label": ""
+                },
+                "low": {
+                  "color": "#B22222",
+                  "label": ""
+                },
+                "medium": {
+                  "color": "#ffa500",
+                  "label": ""
+                }
+              }
+            },
+            "legend": {
+              "showHeader": true,
+              "show": true,
+              "customSize": "auto",
+              "position": "right-top",
+              "inside": false
+            },
+            "axisMode": "multi",
+            "tooltip": {
+              "showBinLabel": true,
+              "measures": "",
+              "showPercentage": true,
+              "showDimensions": true,
+              "showMeasures": true,
+              "customizeTooltip": false,
+              "dimensions": ""
+            },
+            "visualizationType": "hbar",
+            "title": {
+              "fontSize": 14,
+              "subtitleFontSize": 11,
+              "label": "",
+              "align": "center",
+              "subtitleLabel": ""
+            },
+            "binValues": false,
+            "trellis": {
+              "flipLabels": false,
+              "showGridLines": true,
+              "size": [
+                100,
+                100
+              ],
+              "enable": false,
+              "type": "x",
+              "chartsPerLine": 4
+            },
+            "columnMap": {
+              "trellis": [],
+              "dimensionAxis": [],
+              "plots": [
+                "count"
+              ]
+            },
+            "measureAxis2": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "measureAxis1": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "theme": "wave",
+            "dimensionAxis": {
+              "showTitle": true,
+              "customSize": "auto",
+              "showAxis": true,
+              "title": "",
+              "icons": {
+                "useIcons": false,
+                "iconProps": {
+                  "fit": "cover",
+                  "column": "",
+                  "type": "round"
+                }
+              }
+            }
+          },
+          "type": "chart"
+        }
+      },
+      "all_5": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "id": "0Fb7F000000H66jSAC",
+            "label": "Wave_Sample_Opportunities",
+            "name": "Wave_Sample_Opportunities3",
+            "namespace": "simha",
+            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+          }
+        ],
+        "isGlobal": false,
+        "query": {
+          "query": "{&quot;measures&quot;:[[&quot;count&quot;,&quot;*&quot;]]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "single",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "parameters": {
+            "autoFitMode": "keepLabels",
+            "showValues": true,
+            "bins": {
+              "breakpoints": {
+                "high": 100,
+                "low": 0
+              },
+              "bands": {
+                "high": {
+                  "color": "#008000",
+                  "label": ""
+                },
+                "low": {
+                  "color": "#B22222",
+                  "label": ""
+                },
+                "medium": {
+                  "color": "#ffa500",
+                  "label": ""
+                }
+              }
+            },
+            "legend": {
+              "showHeader": true,
+              "show": true,
+              "customSize": "auto",
+              "position": "right-top",
+              "inside": false
+            },
+            "axisMode": "multi",
+            "tooltip": {
+              "showBinLabel": true,
+              "measures": "",
+              "showPercentage": true,
+              "showDimensions": true,
+              "showMeasures": true,
+              "customizeTooltip": false,
+              "dimensions": ""
+            },
+            "visualizationType": "hbar",
+            "title": {
+              "fontSize": 14,
+              "subtitleFontSize": 11,
+              "label": "",
+              "align": "center",
+              "subtitleLabel": ""
+            },
+            "binValues": false,
+            "trellis": {
+              "flipLabels": false,
+              "showGridLines": true,
+              "size": [
+                100,
+                100
+              ],
+              "enable": false,
+              "type": "x",
+              "chartsPerLine": 4
+            },
+            "columnMap": {
+              "trellis": [],
+              "dimensionAxis": [],
+              "plots": [
+                "count"
+              ]
+            },
+            "measureAxis2": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "measureAxis1": {
+              "sqrtScale": false,
+              "showTitle": true,
+              "showAxis": true,
+              "title": "",
+              "customDomain": {
+                "showDomain": false
+              }
+            },
+            "theme": "wave",
+            "dimensionAxis": {
+              "showTitle": true,
+              "customSize": "auto",
+              "showAxis": true,
+              "title": "",
+              "icons": {
+                "useIcons": false,
+                "iconProps": {
+                  "fit": "cover",
+                  "column": "",
+                  "type": "round"
+                }
+              }
+            }
+          },
+          "type": "chart"
+        }
+      },
+      "lens_1": {
+        "broadcastFacet": true,
+        "groups": [],
+        "label": "lens_1",
+        "numbers": [],
+        "query": "{{cell(dataset_1.selection, 0, &quot;value&quot;).asString()}}",
+        "receiveFacet": true,
+        "selectMode": "none",
+        "strings": [],
+        "type": "saql",
+        "useGlobal": true
+      }
+    },
+    "widgetStyle": {
+      "backgroundColor": "rgba(2, 34, 66, 0)",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "text_18": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Other Use Cases",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_17": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Cogroup also helps you compare values within a single dataset! For example, load a stream filtered for last year, another for this year, then cogroup the streams so you can do math across both.\n\nCogroup accounts with events to see the number of visits to each. Combine accounts with open cases to see which may be at risk. You can do left, right, and full outer cogrouping, too. The options are endless!",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_19": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Learn More",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_14": {
+        "parameters": {
+          "fontSize": 24,
+          "text": "GOAL",
+          "textAlignment": "center",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "link_12": {
+        "parameters": {
+          "destinationLink": {
+            "url": "https://developer.salesforce.com/docs/atlas.en-us.bi_dev_guide_saql.meta/bi_dev_guide_saql/bi_saql_statement_group.htm?search_text=cogroup"
+          },
+          "destinationType": "url",
+          "fontSize": 14,
+          "includeState": false,
+          "text": "Cogroup Documentation",
+          "textAlignment": "left",
+          "textColor": "rgb(0, 112, 210)"
+        },
+        "type": "link"
+      },
+      "text_13": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Load the quota dataset (right stream) and filter for 2017.",
+          "textAlignment": "left",
+          "textColor": "rgb(112, 110, 107)"
+        },
+        "type": "text"
+      },
+      "link_10": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Query_Editor",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "QUERY EDITOR",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_16": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "opt = load &#92;&quot;Wave_Sample_Opportunities&#92;&quot;; ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "link_11": {
+        "parameters": {
+          "destinationLink": {
+            "name": "SAQL_Introduction2_Manny_Updates",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "BASIC QUERY",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_15": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Quota Attainment: 2 Datasets, 1 Query",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_10": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Why Use Cogrouping?",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_12": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Filter for won opportunities in 2017.",
+          "textAlignment": "left",
+          "textColor": "rgb(112, 110, 107)"
+        },
+        "type": "text"
+      },
+      "text_11": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "Show Me How",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "container_1": {
+        "parameters": {
+          "alignmentX": "right",
+          "alignmentY": "bottom",
+          "fit": "original",
+          "image": {
+            "name": "headerdetailpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "container_2": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "bottom",
+          "fit": "fitwidth",
+          "image": {
+            "name": "bgfootersnowjpg",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "container_3": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "bottom",
+          "fit": "fitwidth"
+        },
+        "type": "container"
+      },
+      "container_6": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "original"
+        },
+        "type": "container"
+      },
+      "text_3": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "So, you want to work on data from multiple, related datasets? Or you want to show the same data two different ways in one chart? That&#39;s going to require some SAQL! Let&#39;s jump in and start cogrouping! ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_2": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Answer complex questions with SAQL",
+          "textAlignment": "center",
+          "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "container_7": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "original"
+        },
+        "type": "container"
+      },
+      "text_5": {
+        "parameters": {
+          "fontSize": 24,
+          "text": "SAQL QUERY: PERCENT ATTAINED",
+          "textAlignment": "left",
+          "textColor": "rgb(34, 144, 138)"
+        },
+        "type": "text"
+      },
+      "text_4": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "SAQL &amp; STATISTICS",
+          "textAlignment": "left",
+          "textColor": "rgb(107, 109, 112)"
+        },
+        "type": "text"
+      },
+      "text_7": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "SAQL OPERATIONS",
+          "textAlignment": "left",
+          "textColor": "rgb(107, 109, 112)"
+        },
+        "type": "text"
+      },
+      "chart_1": {
+        "parameters": {
+          "totalValue": "computeTotal",
+          "autoFitMode": "keepLabels",
+          "showValues": true,
+          "bins": {
+            "breakpoints": {
+              "high": 1,
+              "low": 0.85
+            },
+            "bands": {
+              "high": {
+                "color": "#008000",
+                "label": ""
+              },
+              "low": {
+                "color": "#B22222",
+                "label": ""
+              },
+              "medium": {
+                "color": "#ffa500",
+                "label": ""
+              }
+            }
+          },
+          "legend": {
+            "showHeader": false,
+            "show": true,
+            "customSize": "auto",
+            "position": "bottom-center",
+            "inside": false
+          },
+          "axisMode": "sync",
+          "tooltip": {
+            "showBinLabel": true,
+            "measures": "",
+            "showPercentage": true,
+            "showDimensions": true,
+            "showMeasures": true,
+            "customizeTooltip": false,
+            "dimensions": ""
+          },
+          "visualizationType": "{{cell(dataset_1.selection, 0, &quot;chart&quot;).asString()}}",
+          "exploreLink": true,
+          "title": {
+            "fontSize": 14,
+            "subtitleFontSize": 11,
+            "label": "",
+            "align": "center",
+            "subtitleLabel": ""
+          },
+          "trellis": {
+            "flipLabels": false,
+            "showGridLines": true,
+            "size": [
+              100,
+              100
+            ],
+            "enable": false,
+            "type": "x",
+            "parameters": {},
+            "chartsPerLine": 4
+          },
+          "binValues": false,
+          "totalLabel": "",
+          "measureAxis2": {
+            "sqrtScale": false,
+            "showTitle": true,
+            "showAxis": true,
+            "title": "",
+            "customDomain": {
+              "showDomain": false
+            }
+          },
+          "measureAxis1": {
+            "sqrtScale": false,
+            "showTitle": false,
+            "showAxis": true,
+            "referenceLines": [
+              {
+                "color": "{{cell(dataset_1.selection, 0, &quot;reflinecolor&quot;).asString()}}",
+                "label": "{{cell(dataset_1.selection, 0, &quot;reflinelabel&quot;).asString()}}",
+                "value": "{{cell(dataset_1.selection, 0, &quot;reflinevalue&quot;).asString()}}"
+              }
+            ],
+            "title": "",
+            "customDomain": {
+              "showDomain": false
+            }
+          },
+          "theme": "wave",
+          "step": "lens_1",
+          "dimensionAxis": {
+            "showTitle": true,
+            "customSize": "auto",
+            "showAxis": true,
+            "title": "",
+            "icons": {
+              "useIcons": false,
+              "iconProps": {
+                "fit": "cover",
+                "column": "",
+                "type": "round",
+                "parameters": {}
+              }
+            }
+          }
+        },
+        "type": "chart"
+      },
+      "text_6": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "att = foreach att generate opt.&#39;Account_Owner&#39; as &#39;Owner&#39;, sum(opt.&#39;Amount&#39;)/sum(quo.&#39;Quota&#39;) as &#39;percent attained&#39;;&quot;",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_9": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "They say you can&#39;t have it all. But they aren&#39;t using cogroup. Use cogroup to combine data from two or more streams (sets of data) into a single stream. You can&#39;t do that using explorer alone. \n\nThis example shows how cogroup combines two datasets by matching fields of account owner and employee. Once combined, you can calculate attainment. Looks like Harold Campbell needs to up his game....\n\nTip: Remember that you need to add datasets to the dashboard before you can use them in SAQL. Simply add a chart, then remove the widget.\n\nNote: A cogroup isn&#39;t a join as you might think of in SQL. Cogrouping groups, then joins the matching groups—not the original records, which would be a &quot;proper&quot; join. If you want that, use union.",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_8": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Load the opportunity dataset (left stream).",
+          "textAlignment": "left",
+          "textColor": "rgb(112, 110, 107)"
+        },
+        "type": "text"
+      },
+      "image_9": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconeditpng",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_8": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconconditionalpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_5": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconcomparepng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_4": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconrelationshippng6",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "text_1": {
+        "parameters": {
+          "fontSize": 32,
+          "text": "Ask Complex Questions with SAQL\n",
+          "textAlignment": "center",
+          "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "image_7": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "icondistributionpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_6": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconmeasurepng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_1": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconintroductionpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_3": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconcompositionpng6",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_2": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "icontablepng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_10": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconcodepng",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "link_3": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_Computing_Quartiles",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "QUARTILES",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_25": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Cogroup the left and right streams by related fields! (This is inner cogrouping.)",
+          "textAlignment": "left",
+          "textColor": "rgb(112, 110, 107)"
+        },
+        "type": "text"
+      },
+      "link_4": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_Union",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "UNION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_24": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "quo = load &#92;&quot;Quota_Region1&#92;&quot;; \nquo = filter quo by &#39;Year&#39; == &#92;&quot;2017&#92;&quot;; ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "link_1": {
+        "parameters": {
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "COGROUP",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_27": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Look at the SAQL Query section below: we load and filter each stream, cogroup by key fields, then calculate.\n\nThe opt and quo streams are brought together into a new stream named att, matched by the fields Account_Owner and Employee:\n\natt = cogroup opt by &#39;Account_Owner&#39;, quo by &#39;Employee&#39;; \n\nBonus! We added a reference line from the Chart Properties panel to show the 100% target.\n\nTip: Though group could be used instead of cogroup, the convention is to use cogroup when you have multiple streams.",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "link_2": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_KA_SAQL_WINDOWING",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "WINDOWING",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_26": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "att = cogroup opt by &#39;Account_Owner&#39;, quo by &#39;Employee&#39;;   ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_21": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "SAQL BASICS",
+          "textAlignment": "left",
+          "textColor": "rgb(107, 109, 112)"
+        },
+        "type": "text"
+      },
+      "text_20": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "Toggle and see for yourself: Here, we&#39;ve got quota numbers in one dataset, opportunity data in another, and we&#39;re using SAQL cogroup function to calculate and chart quota attainment. ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_23": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Calculate attainment percentage for each account owner.",
+          "textAlignment": "left",
+          "textColor": "rgb(112, 110, 107)"
+        },
+        "type": "text"
+      },
+      "text_22": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "opt = filter opt by date(&#39;Close_Date_Year&#39;, &#39;Close_Date_Month&#39;, &#39;Close_Date_Day&#39;) in [dateRange([2017,1,1], [2017,12,31])]; \nopt = filter opt by &#39;Stage&#39; == &#92;&quot;08 - Closed Won&#92;&quot;; ",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "link_9": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_Complex_Boolean_Logic",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "LOGICAL OPERATORS",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "pillbox_2": {
+        "parameters": {
+          "compact": false,
+          "exploreLink": false,
+          "step": "dataset_1"
+        },
+        "type": "pillbox"
+      },
+      "link_7": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_Data_Spreads",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "DATA SPREADS",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_8": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Adventure_Home15253306329574",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "HOME",
+          "textAlignment": "left",
+          "textColor": "#FFFFFF"
+        },
+        "type": "link"
+      },
+      "link_5": {
+        "parameters": {
+          "destinationLink": {
+            "name": "KA_SAQL_Introduction",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "INTRODUCTION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_6": {
+        "parameters": {
+          "destinationLink": {
+            "name": "New_Copy_Computing_Standard_Deviations",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "STANDARD DEVIATIONS",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2SWAW"
+}

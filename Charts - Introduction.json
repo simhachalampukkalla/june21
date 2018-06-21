@@ -1,0 +1,795 @@
+{
+  "allowPreview": true,
+  "assetSharingUrl": "https://simha123-dev-ed.my.salesforce.com/analytics/wave/dashboard?assetId=0FK7F000000GM2AWAW&orgId=00D7F000003es6h&loginHost=ap5.salesforce.com&urlType=sharing",
+  "createdBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "createdDate": "2018-05-17T04:18:51.000Z",
+  "datasets": [
+    {
+      "id": "0Fb7F000000H66jSAC",
+      "label": "Wave_Sample_Opportunities",
+      "name": "Wave_Sample_Opportunities3",
+      "namespace": "simha",
+      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+    }
+  ],
+  "files": [],
+  "folder": {
+    "id": "00l7F000000ilbdQAA",
+    "label": "Einstein Analytics Learning Adventure",
+    "name": "Einstein_Analytics_Learning_Adventure",
+    "namespace": "simha",
+    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+  },
+  "id": "0FK7F000000GM2AWAW",
+  "label": "Charts - Introduction",
+  "lastAccessedDate": "2018-06-21T08:19:51.000Z",
+  "lastModifiedBy": {
+    "id": "0057F000002B9RkQAK",
+    "name": "simhachalam pukkalla",
+    "profilePhotoUrl": "https://simha123-dev-ed--c.ap5.content.force.com/profilephoto/005/T"
+  },
+  "lastModifiedDate": "2018-05-17T04:18:58.000Z",
+  "mobileDisabled": false,
+  "name": "Charts_Introduction15253306330156",
+  "namespace": "simha",
+  "permissions": {
+    "manage": true,
+    "modify": true,
+    "view": true
+  },
+  "refreshDate": "2018-05-17T04:17:07.000Z",
+  "state": {
+    "dataSourceLinks": [],
+    "filters": [],
+    "gridLayouts": [
+      {
+        "maxWidth": 1280,
+        "name": "Default",
+        "numColumns": 40,
+        "pages": [
+          {
+            "label": "Untitled",
+            "name": "a3e27b10-9491-4623-9af3-9421bf92d4e9",
+            "widgets": [
+              {
+                "colspan": 3,
+                "column": 0,
+                "name": "link_8",
+                "row": 0,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_1",
+                "row": 3,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "text_2",
+                "row": 7,
+                "rowspan": 2,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(230, 236, 242)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 40,
+                "column": 0,
+                "name": "container_1",
+                "row": 0,
+                "rowspan": 11,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(8, 30, 41)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_2",
+                "row": 30,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_3",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_4",
+                "row": 38,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_5",
+                "row": 46,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_6",
+                "row": 42,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_11",
+                "row": 30,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_12",
+                "row": 34,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_13",
+                "row": 38,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_14",
+                "row": 46,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_15",
+                "row": 42,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_8",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 18,
+                "column": 8,
+                "name": "text_7",
+                "row": 15,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(9, 26, 62, 0)",
+                  "borderColor": "rgb(237, 235, 232)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 2
+                }
+              },
+              {
+                "colspan": 30,
+                "column": 8,
+                "name": "text_8",
+                "row": 18,
+                "rowspan": 21,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_1",
+                "row": 26,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_1",
+                "row": 26,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "rgba(255, 255, 255, 0)",
+                  "borderColor": "rgb(216, 221, 230)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 32,
+                "column": 7,
+                "name": "container_2",
+                "row": 14,
+                "rowspan": 36,
+                "widgetStyle": {
+                  "backgroundColor": "rgb(225, 243, 251)",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 8,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 6,
+                "column": 0,
+                "name": "container_6",
+                "row": 11,
+                "rowspan": 62,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "text_12",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "rgb(0, 112, 210)",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 4
+                }
+              },
+              {
+                "colspan": 2,
+                "column": 0,
+                "name": "image_9",
+                "row": 14,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#FFFFFF",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 5,
+                "column": 0,
+                "name": "text_17",
+                "row": 19,
+                "rowspan": 3,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              },
+              {
+                "colspan": 4,
+                "column": 2,
+                "name": "link_2",
+                "row": 22,
+                "rowspan": 4,
+                "widgetStyle": {
+                  "backgroundColor": "#F2F6FA",
+                  "borderColor": "#E6ECF2",
+                  "borderEdges": [],
+                  "borderRadius": 0,
+                  "borderWidth": 1
+                }
+              }
+            ]
+          }
+        ],
+        "rowHeight": "fine",
+        "selectors": [],
+        "style": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "backgroundColor": "#FFFFFF",
+          "cellSpacingX": 0,
+          "cellSpacingY": 0,
+          "fit": "original",
+          "gutterColor": "rgb(8, 30, 41)"
+        },
+        "version": 1
+      }
+    ],
+    "layouts": [],
+    "steps": {
+      "Grouping___Compariso_1": {
+        "broadcastFacet": false,
+        "isGlobal": false,
+        "label": "Grouping - Comparison 1 Measure",
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Top&quot;]}",
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{&quot;display&quot;:&quot;Top&quot;,&quot;value&quot;:false}",
+          "{&quot;display&quot;:&quot;Worst&quot;,&quot;value&quot;:true}"
+        ]
+      },
+      "Vis___Compariso_1": {
+        "broadcastFacet": false,
+        "isGlobal": false,
+        "label": "Visualization - Comparison 1 Measure",
+        "selectMode": "singlerequired",
+        "start": "{&quot;display&quot;:[&quot;Bars&quot;]}",
+        "type": "staticflex",
+        "useGlobal": false,
+        "values": [
+          "{&quot;display&quot;:&quot;Bars&quot;,&quot;value&quot;:&quot;hbar&quot;}",
+          "{&quot;display&quot;:&quot;Columns&quot;,&quot;value&quot;:&quot;vbar&quot;}",
+          "{&quot;display&quot;:&quot;Horizontal Dot Plot&quot;,&quot;value&quot;:&quot;hdot&quot;}",
+          "{&quot;display&quot;:&quot;Vertical Dot Plot&quot;,&quot;value&quot;:&quot;vdot&quot;}"
+        ]
+      },
+      "Product_Name_1": {
+        "broadcastFacet": true,
+        "datasets": [
+          {
+            "id": "0Fb7F000000H66jSAC",
+            "label": "Wave_Sample_Opportunities",
+            "name": "Wave_Sample_Opportunities3",
+            "namespace": "simha",
+            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+          }
+        ],
+        "isGlobal": false,
+        "query": {
+          "query": "{&quot;measures&quot;:[[&quot;sum&quot;,&quot;Amount&quot;]],&quot;groups&quot;:[&quot;Product_Name&quot;],&quot;order&quot;:[[-1,{&quot;ascending&quot;:&quot;{{cell(Grouping___Compariso_1.selection, 0, &#92;&quot;value&#92;&quot;).asObject()}}&quot;}]]}",
+          "version": -1
+        },
+        "receiveFacet": true,
+        "selectMode": "multi",
+        "type": "aggregateflex",
+        "useGlobal": true,
+        "visualizationParameters": {
+          "options": {},
+          "visualizationType": "hbar"
+        }
+      }
+    },
+    "widgetStyle": {
+      "backgroundColor": "rgb(2, 34, 66)",
+      "borderColor": "#E6ECF2",
+      "borderEdges": [],
+      "borderRadius": 0,
+      "borderWidth": 1
+    },
+    "widgets": {
+      "text_17": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "CATEGORY",
+          "textAlignment": "left",
+          "textColor": "rgb(107, 109, 112)"
+        },
+        "type": "text"
+      },
+      "link_14": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Location1525415081847",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "LOCATION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_15": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Metrics1525415081845",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "METRICS",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_12": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Composition1525415081853",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "COMPOSITION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_13": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Distribution1525415081847",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "DISTRIBUTION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_11": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Relationship1525415081840",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "RELATIONSHIP",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "text_12": {
+        "parameters": {
+          "fontSize": 12,
+          "text": "INTRODUCTION",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "container_1": {
+        "parameters": {
+          "alignmentX": "right",
+          "alignmentY": "bottom",
+          "fit": "original",
+          "image": {
+            "name": "headerdetailpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "container_2": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "bottom",
+          "fit": "fitwidth",
+          "image": {
+            "name": "bgfooterjpg13",
+            "namespace": "simha"
+          }
+        },
+        "type": "container"
+      },
+      "container_6": {
+        "parameters": {
+          "alignmentX": "left",
+          "alignmentY": "top",
+          "fit": "original"
+        },
+        "type": "container"
+      },
+      "text_2": {
+        "parameters": {
+          "fontSize": 16,
+          "text": "Learn which chart types are best for visualizing your data",
+          "textAlignment": "center",
+          "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "text_7": {
+        "parameters": {
+          "fontSize": 20,
+          "text": "The Right Chart Can Make All the Difference",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "text_8": {
+        "parameters": {
+          "fontSize": 14,
+          "text": "We&#39;ve all experienced the trauma of bad charts. The thousand slice pie. The technicolor rainbow stacked bar. The distorted axes, the misleading correlations. A funnel grouped by billing country... really?!\n\nMaking bad charts is easy. But how do you make a good one? The kind where the insight jumps out at you? That your users will understand instantly?\n\nEinstein Analytics helps, even gives you suggestions for choosing the right chart type, with previews and everything. But it&#39;s a good idea to play around on your own and pick up some best practices on which visualization to use when.\n\nThe best way to start? Get to know your data. It often can tell you exactly how it needs to be shown. Next, click the categories on the left of this dashboard and see for yourself. If you get a sense of what you&#39;re trying to show, it&#39;s easier to pick the right chart type. Have fun!",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "text"
+      },
+      "image_9": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconintroductionpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_8": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconcomparepng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_5": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconlocationpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_4": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "icondistributionpng3",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "text_1": {
+        "parameters": {
+          "fontSize": 32,
+          "text": "Choosing the Right Chart",
+          "textAlignment": "center",
+          "textColor": "#FFFFFF"
+        },
+        "type": "text"
+      },
+      "image_6": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconmetricspng6",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "link_1": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Trending1525415081841",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "TRENDING",
+          "textAlignment": "left",
+          "textColor": "rgb(22, 50, 92)"
+        },
+        "type": "link"
+      },
+      "link_2": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Charts_Comparison1525415081839",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "COMPARISON",
+          "textAlignment": "left",
+          "textColor": "#091A3E"
+        },
+        "type": "link"
+      },
+      "link_8": {
+        "parameters": {
+          "destinationLink": {
+            "name": "Adventure_Home15253306329574",
+            "namespace": "simha"
+          },
+          "destinationType": "dashboard",
+          "fontSize": 12,
+          "includeState": false,
+          "text": "HOME",
+          "textAlignment": "left",
+          "textColor": "#FFFFFF"
+        },
+        "type": "link"
+      },
+      "image_1": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "icontrendingpng6",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_3": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconcompositionpng6",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      },
+      "image_2": {
+        "parameters": {
+          "alignmentX": "center",
+          "alignmentY": "center",
+          "fit": "original",
+          "image": {
+            "name": "iconrelationshippng6",
+            "namespace": "simha"
+          }
+        },
+        "type": "image"
+      }
+    }
+  },
+  "type": "dashboard",
+  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2AWAW"
+}
