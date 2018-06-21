@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [],
@@ -22,11 +22,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2AWAW",
   "label": "Charts - Introduction",
-  "lastAccessedDate": "2018-06-21T08:19:51.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:59.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -426,6 +426,8 @@
     "steps": {
       "Grouping___Compariso_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Grouping - Comparison 1 Measure",
         "selectMode": "singlerequired",
@@ -439,6 +441,8 @@
       },
       "Vis___Compariso_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Visualization - Comparison 1 Measure",
         "selectMode": "singlerequired",
@@ -460,7 +464,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -791,5 +795,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2AWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2AWAW"
 }

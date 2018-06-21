@@ -15,7 +15,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000Gze7WAC",
       "lastModifiedDate": "2018-05-17T04:20:53.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2QWAW/files/0FJ7F000000Gze7WAC"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2QWAW/files/0FJ7F000000Gze7WAC"
     }
   ],
   "folder": {
@@ -23,11 +23,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2QWAW",
   "label": "Adventure Home",
-  "lastAccessedDate": "2018-06-21T08:19:52.000Z",
+  "lastAccessedDate": "2018-06-21T11:06:00.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -650,5 +650,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2QWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2QWAW"
 }

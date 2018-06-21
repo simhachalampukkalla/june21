@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000H0nrWAC",
       "lastModifiedDate": "2018-06-13T04:51:53.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2RWAW/files/0FJ7F000000H0nrWAC"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2RWAW/files/0FJ7F000000H0nrWAC"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2RWAW",
   "label": "SAQL - Basics",
-  "lastAccessedDate": "2018-06-21T08:19:49.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:57.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -945,7 +945,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -1315,8 +1315,7 @@
           "fontSize": 16,
           "text": "Query Breakdown",
           "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)",
-          "tooltip": ""
+          "textColor": "rgb(22, 50, 92)"
         },
         "type": "text"
       },
@@ -1428,6 +1427,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": false,
           "measureAxis1": {
             "sqrtScale": false,
             "showTitle": false,
@@ -1833,5 +1833,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2RWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2RWAW"
 }

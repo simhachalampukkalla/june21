@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000H0qYWAS",
       "lastModifiedDate": "2018-06-13T08:43:17.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2HWAW/files/0FJ7F000000H0qYWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2HWAW/files/0FJ7F000000H0qYWAS"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2HWAW",
   "label": "Dynamic Apps - Data  - Grouping (Compact Form)",
-  "lastAccessedDate": "2018-06-21T08:19:49.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:59.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -773,7 +773,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -886,6 +886,8 @@
       },
       "Binding_Value_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Binding Value",
         "selectMode": "single",
@@ -897,6 +899,8 @@
       },
       "Grouping_Toggle_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Grouping Toggle",
         "selectMode": "singlerequired",
@@ -1215,6 +1219,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": false,
           "measureAxis1": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1583,5 +1588,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2HWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2HWAW"
 }

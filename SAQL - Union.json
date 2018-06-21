@@ -13,14 +13,14 @@
       "label": "DTC_Opportunity_SAMPLE",
       "name": "DTC_Opportunity_SAMPLE1",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66kSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66kSAC"
     },
     {
       "id": "0Fb7F000000H66lSAC",
       "label": "OpportunitiesRegion2",
       "name": "OpportunitiesRegion2",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66lSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66lSAC"
     }
   ],
   "files": [
@@ -30,7 +30,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000GzeMWAS",
       "lastModifiedDate": "2018-05-17T04:21:21.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2ZWAW/files/0FJ7F000000GzeMWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2ZWAW/files/0FJ7F000000GzeMWAS"
     }
   ],
   "folder": {
@@ -38,11 +38,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2ZWAW",
   "label": "SAQL - Union",
-  "lastAccessedDate": "2018-06-21T08:19:52.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:58.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -754,6 +754,8 @@
     "steps": {
       "union_1": {
         "broadcastFacet": true,
+        "datasets": [],
+        "dimensions": [],
         "label": "union",
         "selectMode": "singlerequired",
         "start": "{&quot;display&quot;:[&quot;Top 5 Both Regions&quot;]}",
@@ -772,7 +774,7 @@
             "label": "DTC_Opportunity_SAMPLE",
             "name": "DTC_Opportunity_SAMPLE1",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66kSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66kSAC"
           }
         ],
         "isGlobal": false,
@@ -897,7 +899,7 @@
             "label": "OpportunitiesRegion2",
             "name": "OpportunitiesRegion2",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66lSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66lSAC"
           }
         ],
         "isGlobal": false,
@@ -1264,7 +1266,6 @@
       "chart_2": {
         "parameters": {
           "autoFitMode": "keepLabels",
-          "totalValue": "computeTotal",
           "showValues": true,
           "bins": {
             "breakpoints": {
@@ -1325,7 +1326,6 @@
             "chartsPerLine": 4
           },
           "binValues": false,
-          "totalLabel": "",
           "measureAxis2": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1335,6 +1335,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": true,
           "measureAxis1": {
             "sqrtScale": true,
             "showTitle": false,
@@ -1680,5 +1681,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2ZWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2ZWAW"
 }

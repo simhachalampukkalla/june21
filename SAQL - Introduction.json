@@ -15,7 +15,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000GzeCWAS",
       "lastModifiedDate": "2018-05-17T04:21:01.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2VWAW/files/0FJ7F000000GzeCWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2VWAW/files/0FJ7F000000GzeCWAS"
     }
   ],
   "folder": {
@@ -23,11 +23,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2VWAW",
   "label": "SAQL - Introduction",
-  "lastAccessedDate": "2018-06-21T08:19:52.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:58.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -893,5 +893,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2VWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2VWAW"
 }

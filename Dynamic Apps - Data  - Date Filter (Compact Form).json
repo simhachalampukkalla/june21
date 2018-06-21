@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000H0q9WAC",
       "lastModifiedDate": "2018-06-13T07:52:00.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2GWAW/files/0FJ7F000000H0q9WAC"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2GWAW/files/0FJ7F000000H0q9WAC"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2GWAW",
   "label": "Dynamic Apps - Data  - Date Filter (Compact Form)",
-  "lastAccessedDate": "2018-06-21T08:19:51.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:59.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -772,7 +772,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -841,6 +841,8 @@
       },
       "step_time": {
         "broadcastFacet": true,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "selectMode": "singlerequired",
         "start": "{&quot;display&quot;:[&quot;Last 5 Years&quot;]}",
@@ -855,6 +857,8 @@
       },
       "Binding_Value_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Binding Value",
         "selectMode": "single",
@@ -872,7 +876,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -1472,5 +1476,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2GWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2GWAW"
 }

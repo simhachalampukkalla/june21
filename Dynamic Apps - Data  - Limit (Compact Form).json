@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [],
@@ -22,11 +22,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2IWAW",
   "label": "Dynamic Apps - Data  - Limit (Compact Form)",
-  "lastAccessedDate": "2018-06-21T08:19:48.000Z",
+  "lastAccessedDate": "2018-06-21T11:06:00.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -722,6 +722,8 @@
     "steps": {
       "Limit_Toggle_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Grouping Toggle",
         "selectMode": "singlerequired",
@@ -742,7 +744,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -839,6 +841,8 @@
       },
       "Binding_Value_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Binding Value",
         "selectMode": "single",
@@ -1116,7 +1120,6 @@
       "chart_1": {
         "parameters": {
           "autoFitMode": "keepLabels",
-          "totalValue": "computeTotal",
           "showValues": true,
           "bins": {
             "breakpoints": {
@@ -1177,7 +1180,6 @@
             "chartsPerLine": 4
           },
           "binValues": false,
-          "totalLabel": "",
           "measureAxis2": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1187,6 +1189,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": true,
           "measureAxis1": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1491,5 +1494,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2IWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2IWAW"
 }

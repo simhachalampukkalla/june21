@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000Gze2WAC",
       "lastModifiedDate": "2018-05-17T04:19:47.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2aWAG/files/0FJ7F000000Gze2WAC"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2aWAG/files/0FJ7F000000Gze2WAC"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2aWAG",
   "label": "SAQL - Windowing",
-  "lastAccessedDate": "2018-06-21T08:19:48.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:58.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -877,7 +877,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -1253,7 +1253,6 @@
       "chart_1": {
         "parameters": {
           "autoFitMode": "none",
-          "totalValue": "computeTotal",
           "showValues": true,
           "bins": {
             "breakpoints": {
@@ -1317,7 +1316,6 @@
             "parameters": {},
             "chartsPerLine": 4
           },
-          "totalLabel": "",
           "measureAxis2": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1327,6 +1325,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": true,
           "measureAxis1": {
             "sqrtScale": true,
             "showTitle": true,
@@ -1673,5 +1672,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2aWAG"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2aWAG"
 }

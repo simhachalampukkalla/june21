@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [],
@@ -22,11 +22,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2CWAW",
   "label": "Charts - Metrics",
-  "lastAccessedDate": "2018-06-21T08:19:48.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:58.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -633,6 +633,8 @@
     "steps": {
       "static_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "selectMode": "singlerequired",
         "start": "{&quot;display&quot;:[&quot;Flat Gauge&quot;]}",
@@ -652,7 +654,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -999,7 +1001,6 @@
             }
           },
           "autoFitMode": "fit",
-          "totalValue": "computeTotal",
           "bins": {
             "breakpoints": {
               "high": 100,
@@ -1021,7 +1022,6 @@
             }
           },
           "max": 100,
-          "totalLabel": "",
           "numberOfIcons": 5,
           "measureAxis2": {
             "sqrtScale": false,
@@ -1032,6 +1032,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": true,
           "referenceLine": {
             "color": "#2EC2BA",
             "label": "Target",
@@ -1247,5 +1248,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2CWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2CWAW"
 }

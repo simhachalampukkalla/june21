@@ -13,14 +13,14 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     },
     {
       "id": "0Fb7F000000H66mSAC",
       "label": "Quota_Region1",
       "name": "Quota_Region1",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66mSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66mSAC"
     }
   ],
   "files": [
@@ -30,7 +30,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000GzeHWAS",
       "lastModifiedDate": "2018-06-07T06:21:55.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2SWAW/files/0FJ7F000000GzeHWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2SWAW/files/0FJ7F000000GzeHWAS"
     }
   ],
   "folder": {
@@ -38,11 +38,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2SWAW",
   "label": "SAQL - Cogroup",
-  "lastAccessedDate": "2018-06-21T08:19:49.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:57.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -803,6 +803,8 @@
     "steps": {
       "dataset_1": {
         "broadcastFacet": true,
+        "datasets": [],
+        "dimensions": [],
         "label": "dataset",
         "selectMode": "singlerequired",
         "start": "{&quot;display&quot;:[&quot;Percent Attained&quot;]}",
@@ -821,7 +823,7 @@
             "label": "Quota_Region1",
             "name": "Quota_Region1",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66mSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66mSAC"
           }
         ],
         "isGlobal": false,
@@ -946,7 +948,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -1313,7 +1315,6 @@
       },
       "chart_1": {
         "parameters": {
-          "totalValue": "computeTotal",
           "autoFitMode": "keepLabels",
           "showValues": true,
           "bins": {
@@ -1375,7 +1376,6 @@
             "chartsPerLine": 4
           },
           "binValues": false,
-          "totalLabel": "",
           "measureAxis2": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1385,6 +1385,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": true,
           "measureAxis1": {
             "sqrtScale": false,
             "showTitle": false,
@@ -1791,5 +1792,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2SWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2SWAW"
 }

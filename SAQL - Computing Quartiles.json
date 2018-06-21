@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000GzeWWAS",
       "lastModifiedDate": "2018-05-17T04:21:33.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2TWAW/files/0FJ7F000000GzeWWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2TWAW/files/0FJ7F000000GzeWWAS"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2TWAW",
   "label": "SAQL - Computing Quartiles",
-  "lastAccessedDate": "2018-06-21T08:19:49.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:57.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -815,6 +815,8 @@
       },
       "Toggle_1_1": {
         "broadcastFacet": true,
+        "datasets": [],
+        "dimensions": [],
         "label": "Toggle_1",
         "selectMode": "single",
         "start": "{&quot;display&quot;:[&quot;Countries by Quartile&quot;]}",
@@ -832,7 +834,7 @@
             "label": "Wave_Sample_Opportunities",
             "name": "Wave_Sample_Opportunities3",
             "namespace": "simha",
-            "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+            "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
           }
         ],
         "isGlobal": false,
@@ -1255,6 +1257,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": false,
           "valueType": "compactNumber",
           "measureAxis1": {
             "sqrtScale": false,
@@ -1610,5 +1613,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2TWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2TWAW"
 }

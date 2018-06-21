@@ -13,7 +13,7 @@
       "label": "OpportunitiesRegion2",
       "name": "OpportunitiesRegion2",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66lSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66lSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000GzeRWAS",
       "lastModifiedDate": "2018-05-17T04:21:28.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2WWAW/files/0FJ7F000000GzeRWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2WWAW/files/0FJ7F000000GzeRWAS"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2WWAW",
   "label": "SAQL - Logical Operators",
-  "lastAccessedDate": "2018-06-21T08:19:51.000Z",
+  "lastAccessedDate": "2018-06-21T11:05:57.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -1277,8 +1277,7 @@
           "fontSize": 14,
           "text": "Everything comes with conditions. Your queries should too. Case operators let you add conditional logic so you can fine-tune your analysis.\n\nIn this example, we use case operators to build a forecast model based on past rep performance. For top tier reps, we include in our forecast all opportunities with a probability greater than 40%. For our lowest performers, we only include opportunities with a probability over 60%.",
           "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)",
-          "tooltip": ""
+          "textColor": "rgb(22, 50, 92)"
         },
         "type": "text"
       },
@@ -1363,6 +1362,7 @@
               "showDomain": false
             }
           },
+          "computeTotal": false,
           "measureAxis1": {
             "sqrtScale": false,
             "showTitle": true,
@@ -1403,8 +1403,7 @@
           "fontSize": 14,
           "text": "Let&#39;s break down this forecast query. The SAQL might look pretty intimidating, but the logic is easy to follow.\n\nAfter loading the data and removing all lost opportunities, we use a case operator to generate some logic. Namely, we&#39;re choosing to include opportunities in this forecast with lower probabilities to close that are owned by top tier reps. Since they&#39;re so good, they should close more deals, right? We also add logic that factors in lower expectations for our poorest performing reps.",
           "textAlignment": "left",
-          "textColor": "rgb(22, 50, 92)",
-          "tooltip": ""
+          "textColor": "rgb(22, 50, 92)"
         },
         "type": "text"
       },
@@ -1791,5 +1790,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2WWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2WWAW"
 }

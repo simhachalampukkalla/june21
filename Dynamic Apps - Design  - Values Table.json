@@ -13,7 +13,7 @@
       "label": "Wave_Sample_Opportunities",
       "name": "Wave_Sample_Opportunities3",
       "namespace": "simha",
-      "url": "/services/data/v42.0/wave/datasets/0Fb7F000000H66jSAC"
+      "url": "/services/data/v41.0/wave/datasets/0Fb7F000000H66jSAC"
     }
   ],
   "files": [
@@ -23,7 +23,7 @@
       "fileName": "assetPreviewThumb",
       "id": "0FJ7F000000H0bCWAS",
       "lastModifiedDate": "2018-06-07T03:44:47.000Z",
-      "url": "/services/data/v42.0/wave/lenses/0FK7F000000GM2LWAW/files/0FJ7F000000H0bCWAS"
+      "url": "/services/data/v41.0/wave/lenses/0FK7F000000GM2LWAW/files/0FJ7F000000H0bCWAS"
     }
   ],
   "folder": {
@@ -31,11 +31,11 @@
     "label": "Einstein Analytics Learning Adventure",
     "name": "Einstein_Analytics_Learning_Adventure",
     "namespace": "simha",
-    "url": "/services/data/v42.0/wave/folders/00l7F000000ilbdQAA"
+    "url": "/services/data/v41.0/wave/folders/00l7F000000ilbdQAA"
   },
   "id": "0FK7F000000GM2LWAW",
   "label": "Dynamic Apps - Design  - Values Table",
-  "lastAccessedDate": "2018-06-21T08:19:51.000Z",
+  "lastAccessedDate": "2018-06-21T11:06:00.000Z",
   "lastModifiedBy": {
     "id": "0057F000002B9RkQAK",
     "name": "simhachalam pukkalla",
@@ -727,6 +727,8 @@
     "steps": {
       "static_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "selectMode": "multirequired",
         "start": "{&quot;display&quot;:[&quot;Stage&quot;]}",
@@ -740,6 +742,8 @@
       },
       "Binding_Value_1": {
         "broadcastFacet": false,
+        "datasets": [],
+        "dimensions": [],
         "isGlobal": false,
         "label": "Binding Value",
         "selectMode": "single",
@@ -761,7 +765,6 @@
         "useGlobal": true,
         "visualizationParameters": {
           "parameters": {
-            "columnProperties": {},
             "columns": [],
             "customBulkActions": [],
             "maxColumnWidth": 300,
@@ -1227,7 +1230,6 @@
             "fontColor": "#16325c",
             "fontSize": 12
           },
-          "columnProperties": {},
           "columns": [],
           "customBulkActions": [],
           "exploreLink": true,
@@ -1337,5 +1339,5 @@
     }
   },
   "type": "dashboard",
-  "url": "/services/data/v42.0/wave/dashboards/0FK7F000000GM2LWAW"
+  "url": "/services/data/v41.0/wave/dashboards/0FK7F000000GM2LWAW"
 }
